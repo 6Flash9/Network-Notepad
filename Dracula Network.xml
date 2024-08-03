@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Network Rangulu" ext="log txt" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="yes" Keywords6="no" Keywords7="yes" Keywords8="yes" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2">a b c d e f V</Keywords>
+            <Keywords name="Numbers, extras1">a b c d e f</Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1">a b c d e f</Keywords>
+            <Keywords name="Numbers, suffix2">a b c d e f</Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">. / : , - @</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">up connected allow add active allowed allow inside permit &apos;no shutdown&apos; auto</Keywords>
+            <Keywords name="Keywords2">aaa hostname username ip Password boot service dot11 mbssid encryption broadcast-key speed rts dot1x reauth-period bridge-group encapsulation access-list snmp-server radius-server bridge line world-mode wlccp security domain-name dns-server netbios-name-server netbios-node-type default-router client-identifier mls diagnostic spanning-tree sntp route-map ntp service-policy policy-map class police class-map router</Keywords>
+            <Keywords name="Keywords3">no &apos;Power Failure&apos; notconnect deny timeout inactive exec-timeout session-timeout unsupported outside out exceed-action drop expired failure stop-record boot-end-marker error reset end shutdown system-shutdown loss &apos;admin down&apos; down remove</Keywords>
+            <Keywords name="Keywords4">weeks day hours RW enable gt any Description description match in conform-action transmit established success boot-start-marker</Keywords>
+            <Keywords name="Keywords5">FastEthernet GigabitEthernet Ethernet Po channel loopback Eth Gi Vl Te Vlan BVI Dot11Radio</Keywords>
+            <Keywords name="Keywords6">&apos;config t&apos; minutes minute seconds icmp www smtp telnet ipv6 ftp ssh echo dscp isakmp nntp gopher pop3 ident ftp-data eigrp sonet default log-input &apos;(Administratively down)&apos;</Keywords>
+            <Keywords name="Keywords7">DCA trunk &apos;full-duplex&apos;</Keywords>
+            <Keywords name="Keywords8">DC3 access list &apos;half-duplex&apos;</Keywords>
+            <Keywords name="Delimiters">00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="F8F8F2" bgColor="282A36" fontName="Consolas" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="282A36" fontStyle="0" nesting="117702655" />
+            <WordsStyle name="LINE COMMENTS" fgColor="F8F8F2" bgColor="282A36" fontStyle="0" nesting="117702655" />
+            <WordsStyle name="NUMBERS" fgColor="8BE9FD" bgColor="282A36" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="00FF80" bgColor="282A36" fontStyle="1" fontSize="" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0080FF" bgColor="282A36" fontStyle="0" fontSize="" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="FF5555" bgColor="282A36" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="F1FA8C" bgColor="282A36" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="8BE9FD" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FFB86C" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="BD93F9" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="FF79C6" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="FF5555" bgColor="282A36" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="0080FF" bgColor="282A36" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="0080FF" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="FFB86C" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="FF5555" bgColor="282A36" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="FF5555" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="FF5555" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="F8F8F2" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="F8F8F2" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="F8F8F2" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="F8F8F2" bgColor="282A36" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="F8F8F2" bgColor="282A36" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
