@@ -24,10 +24,10 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">up connected allow add active allowed allow inside permit &apos;no shutdown&apos; auto</Keywords>
+            <Keywords name="Keywords1">up SNMP_TRAP_LINK_UP connected allow add active allowed allow inside permit &apos;no shutdown&apos; auto</Keywords>
             <Keywords name="Keywords2">aaa hostname username ip Password boot service dot11 mbssid encryption broadcast-key speed rts dot1x reauth-period bridge-group encapsulation access-list snmp-server radius-server bridge line world-mode wlccp security domain-name dns-server netbios-name-server netbios-node-type default-router client-identifier mls diagnostic spanning-tree sntp route-map ntp service-policy policy-map class police class-map router</Keywords>
-            <Keywords name="Keywords3">no &apos;Power Failure&apos; notconnect deny timeout inactive exec-timeout session-timeout unsupported outside out exceed-action drop expired failure stop-record boot-end-marker error reset end shutdown system-shutdown loss &apos;admin down&apos; down remove</Keywords>
-            <Keywords name="Keywords4">weeks day hours RW enable gt any Description description match in conform-action transmit established success boot-start-marker</Keywords>
+            <Keywords name="Keywords3">no &apos;Power Failure&apos; notconnect deny timeout inactive exec-timeout session-timeout unsupported outside out exceed-action drop expired failure stop-record boot-end-marker error reset end disabled shutdown system-shutdown loss &apos;admin down&apos; down SNMP_TRAP_LINK_DOWN failed notconnec remove</Keywords>
+            <Keywords name="Keywords4">weeks day hours RW enable gt any Description run status description match in conform-action transmit established success boot-start-marker</Keywords>
             <Keywords name="Keywords5">FastEthernet GigabitEthernet Ethernet Po channel loopback Eth Gi Vl Te Vlan BVI Dot11Radio</Keywords>
             <Keywords name="Keywords6">&apos;config t&apos; minutes minute seconds icmp www smtp telnet ipv6 ftp ssh echo dscp isakmp nntp gopher pop3 ident ftp-data eigrp sonet default log-input &apos;(Administratively down)&apos;</Keywords>
             <Keywords name="Keywords7">DCA trunk &apos;full-duplex&apos;</Keywords>
